@@ -1,3 +1,8 @@
+aggressormob by maikerumine
+Adds two different shooters to your game.
+based off of:
+
+
 === MOBS-MOD for MINETEST-C55 ===
 by PilzAdam
 
